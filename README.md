@@ -236,5 +236,5 @@ Each module explores different aspects of deep learning, from foundational conce
 **[Midterm Project](https://github.com/Sittichai-nu/DL/tree/main/Midterm%20Project%20The%20Vectorization%20Adventure)**
 
 ## Additional Resources and References
-- [Deep Learning Frameworks]()
-- [Ethical AI Development]()
+- [Deep Learning Frameworks](https://marutitech.com/top-8-deep-learning-frameworks/)
+- [Ethical AI Development](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai)
