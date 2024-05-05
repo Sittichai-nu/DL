@@ -48,7 +48,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the transformative potential of deep learning technologies.
 
-**[Deep Learning Timeline Analysis]()**
+**[Deep Learning Timeline Analysis](https://github.com/Sittichai-nu/DL/tree/main/Module%201%20-%20Deep%20Learning%20Introduction)**
 
 ### Module 2: Gradient-Based Learning and Deep Learning Toolkits
 **Key Points Learned:**
@@ -233,7 +233,7 @@ Each module explores different aspects of deep learning, from foundational conce
 ## Midterm Project: The Vectorization Adventure
 **Overview:** Focused on text-to-vector transformations essential for NLP.
 **Outcome:** Enhanced practical understanding and application of vectorization techniques.
-**[Midterm Project Details]()**
+**[Midterm Project]https://github.com/Sittichai-nu/DL/tree/main/Midterm%20Project%20The%20Vectorization%20Adventure)**
 
 ## Additional Resources and References
 - [Deep Learning Frameworks]()
