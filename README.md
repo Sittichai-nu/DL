@@ -61,7 +61,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Gained a practical understanding of framework capabilities.
 
-**[Comparative Analysis Project]()**
+**[Comparative Analysis Project](https://github.com/Sittichai-nu/DL/tree/main/Module%202%20-%20Gradient-Based%20Learning%20and%20Deep%20Learning%20Toolkits)**
 
 ### Module 3: Neural Network Basics
 **Key Points Learned:**
@@ -75,7 +75,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the challenges in learning algorithms and the importance of proper parameter tuning.
 
-**[Neural Network Basics Workshop]()**
+**[Neural Network Basics Workshop](https://github.com/Sittichai-nu/DL/tree/main/Module%203%20-%20Neural%20Network%20Basics)**
 
 ### Module 4: Tensors and Deep Learning Frameworks
 **Key Points Learned:**
@@ -89,7 +89,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Realized the power of tensor operations in streamlining the creation of complex models.
 
-**[Tensor Manipulation Exercises]()**
+**[Tensor Manipulation Exercises](https://github.com/Sittichai-nu/DL/tree/main/Module%204%20-%20Tensors%20and%20Deep%20Learning%20Frameworks)**
 
 ### Module 5: Convolutional Neural Networks (CNNs)
 **Key Points Learned:**
@@ -103,7 +103,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Learned the significance of convolutional layers in feature extraction.
 
-**[CNN Image Classification Project]()**
+**[CNN Image Classification Project](https://github.com/Sittichai-nu/DL/tree/main/Module%205%20-%20Convolutional%20Neural%20Networks%20(CNNs))**
 
 ### Module 6: Advanced Neural Network Architectures
 **Key Points Learned:**
@@ -117,7 +117,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the complexity and capabilities of modern neural network architectures.
 
-**[Advanced Architectures Implementation]()**
+**[Advanced Architectures Implementation](https://github.com/Sittichai-nu/DL/tree/main/Module%206%20-%20Advanced%20Neural%20Network%20Architectures)**
 
 ### Module 7: Natural Language Processing (NLP)
 **Key Points Learned:**
@@ -131,7 +131,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the difficulties of dealing with human language and the potential of NLP in AI.
 
-**[NLP Case Studies]()**
+**[NLP Case Studies](https://github.com/Sittichai-nu/DL/tree/main/Module%207%20-%20Natural%20Language%20Processing%20(NLP))**
 
 ### Module 8: Advanced Text Processing Techniques
 **Key Points Learned:**
@@ -145,7 +145,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Learned the critical role of text preprocessing in the pipeline of NLP applications.
 
-**[Text Processing Techniques])**
+**[Text Processing Techniques](https://github.com/Sittichai-nu/DL/tree/main/Module%208%20-%20Advanced%20Text%20Processing%20Techniques)**
 
 ### Module 9: Word Embeddings and GloVe Vectors
 **Key Points Learned:**
@@ -159,7 +159,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Gained insights into how embeddings capture context and semantics, significantly outperforming traditional vectorization methods.
 
-**[Word Embeddings Workshop]()**
+**[Word Embeddings Workshop](https://github.com/Sittichai-nu/DL/tree/main/Module%209%20-%20Word%20Embeddings%20and%20GloVe%20Vectors)**
 
 ### Module 10: Recurrent Neural Networks and LSTM
 **Key Points Learned:**
@@ -173,7 +173,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the strengths and limitations of recurrent networks, especially in handling sequences with long dependencies.
 
-**[Sequence Modeling Projects]()**
+**[Sequence Modeling Projects](https://github.com/Sittichai-nu/DL/tree/main/Module%2010%20-%20Recurrent%20Neural%20Networks%20and%20LSTM)**
 
 ### Module 11: Transformers and BERT
 **Key Points Learned:**
@@ -187,7 +187,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Realized the revolutionary impact of transformers on the field of NLP, offering significant improvements over previous models.
 
-**[Transformers in Action]()**
+**[Transformers in Action](https://github.com/Sittichai-nu/DL/tree/main/Module%2011%20-%20Transformers%20and%20BERT)**
 
 ### Module 12: Computer Vision and Image Processing
 **Key Points Learned:**
@@ -201,7 +201,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the complexities and capabilities of computer vision systems, especially in interpreting visual information from the real world.
 
-**[Computer Vision Projects]()**
+**[Computer Vision Projects](https://github.com/Sittichai-nu/DL/tree/main/Module%2012%20-%20Computer%20Vision%20and%20Image%20Processing)**
 
 ### Module 13: AI Agents
 **Key Points Learned:**
@@ -215,7 +215,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Recognized the potential of intelligent agents in automating tasks and enhancing decision-making across diverse sectors.
 
-**[AI Agents Case Studies]()**
+**[AI Agents Case Studies](https://github.com/Sittichai-nu/DL/tree/main/Module%2013%20-%20AI%20Agents)**
 
 
 ## Conclusion and Future Directions
@@ -233,7 +233,7 @@ Each module explores different aspects of deep learning, from foundational conce
 ## Midterm Project: The Vectorization Adventure
 **Overview:** Focused on text-to-vector transformations essential for NLP.
 **Outcome:** Enhanced practical understanding and application of vectorization techniques.
-**[Midterm Project]https://github.com/Sittichai-nu/DL/tree/main/Midterm%20Project%20The%20Vectorization%20Adventure)**
+**[Midterm Project](https://github.com/Sittichai-nu/DL/tree/main/Midterm%20Project%20The%20Vectorization%20Adventure)**
 
 ## Additional Resources and References
 - [Deep Learning Frameworks]()
