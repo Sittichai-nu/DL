@@ -1,5 +1,3 @@
-# Deep-Learning
-
 ## Sittichai Chaikamol
 ### ITAI 2376 - Deep Learning
 **Professor:** Patricia McManus
