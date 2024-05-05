@@ -48,7 +48,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the transformative potential of deep learning technologies.
 
-**[External Link: Deep Learning Timeline Analysis]()**
+**[Deep Learning Timeline Analysis]()**
 
 ### Module 2: Gradient-Based Learning and Deep Learning Toolkits
 **Key Points Learned:**
@@ -61,7 +61,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Gained a practical understanding of framework capabilities.
 
-**[External Link: Comparative Analysis Project]()**
+**[Comparative Analysis Project]()**
 
 ### Module 3: Neural Network Basics
 **Key Points Learned:**
@@ -75,7 +75,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the challenges in learning algorithms and the importance of proper parameter tuning.
 
-**[External Link: Neural Network Basics Workshop]()**
+**[Neural Network Basics Workshop]()**
 
 ### Module 4: Tensors and Deep Learning Frameworks
 **Key Points Learned:**
@@ -89,7 +89,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Realized the power of tensor operations in streamlining the creation of complex models.
 
-**[External Link: Tensor Manipulation Exercises]()**
+**[Tensor Manipulation Exercises]()**
 
 ### Module 5: Convolutional Neural Networks (CNNs)
 **Key Points Learned:**
@@ -103,7 +103,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Learned the significance of convolutional layers in feature extraction.
 
-**[External Link: CNN Image Classification Project]()**
+**[CNN Image Classification Project]()**
 
 ### Module 6: Advanced Neural Network Architectures
 **Key Points Learned:**
@@ -117,7 +117,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the complexity and capabilities of modern neural network architectures.
 
-**[External Link: Advanced Architectures Implementation]()**
+**[Advanced Architectures Implementation]()**
 
 ### Module 7: Natural Language Processing (NLP)
 **Key Points Learned:**
@@ -131,7 +131,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the difficulties of dealing with human language and the potential of NLP in AI.
 
-**[External Link: NLP Case Studies]()**
+**[NLP Case Studies]()**
 
 ### Module 8: Advanced Text Processing Techniques
 **Key Points Learned:**
@@ -145,7 +145,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Learned the critical role of text preprocessing in the pipeline of NLP applications.
 
-**[External Link: Text Processing Techniques])**
+**[Text Processing Techniques])**
 
 ### Module 9: Word Embeddings and GloVe Vectors
 **Key Points Learned:**
@@ -159,7 +159,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Gained insights into how embeddings capture context and semantics, significantly outperforming traditional vectorization methods.
 
-**[External Link: Word Embeddings Workshop]()**
+**[Word Embeddings Workshop]()**
 
 ### Module 10: Recurrent Neural Networks and LSTM
 **Key Points Learned:**
@@ -173,7 +173,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Understood the strengths and limitations of recurrent networks, especially in handling sequences with long dependencies.
 
-**[External Link: Sequence Modeling Projects]()**
+**[Sequence Modeling Projects]()**
 
 ### Module 11: Transformers and BERT
 **Key Points Learned:**
@@ -187,7 +187,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Realized the revolutionary impact of transformers on the field of NLP, offering significant improvements over previous models.
 
-**[External Link: Transformers in Action]()**
+**[Transformers in Action]()**
 
 ### Module 12: Computer Vision and Image Processing
 **Key Points Learned:**
@@ -201,7 +201,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Appreciated the complexities and capabilities of computer vision systems, especially in interpreting visual information from the real world.
 
-**[External Link: Computer Vision Projects]()**
+**[Computer Vision Projects]()**
 
 ### Module 13: AI Agents
 **Key Points Learned:**
@@ -215,7 +215,7 @@ Each module explores different aspects of deep learning, from foundational conce
 **Reflection:**
 - Recognized the potential of intelligent agents in automating tasks and enhancing decision-making across diverse sectors.
 
-**[External Link: AI Agents Case Studies]()**
+**[AI Agents Case Studies]()**
 
 
 ## Conclusion and Future Directions
@@ -233,10 +233,8 @@ Each module explores different aspects of deep learning, from foundational conce
 ## Midterm Project: The Vectorization Adventure
 **Overview:** Focused on text-to-vector transformations essential for NLP.
 **Outcome:** Enhanced practical understanding and application of vectorization techniques.
-**[External Link: Midterm Project Details]()**
+**[Midterm Project Details]()**
 
 ## Additional Resources and References
 - [Deep Learning Frameworks]()
 - [Ethical AI Development]()
-
-**[Repository Link: Full Portfolio on GitHub]()**
